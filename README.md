@@ -94,3 +94,8 @@ pytest
 ## What I Learned
 
 This project helped me practice how backend routes work and how to test API behavior. If I improved it later, I would add a real database and user login.
+
+## Future Improvements
+
+- Add a real database
+- Add user login
